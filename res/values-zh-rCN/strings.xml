@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">日志收集器</string>
+    <string name="message_subject">安卓设备日志</string>
+    <string name="acquiring_log_progress_dialog_message">正在获取系统日志...</string>
+    <string name="chooser_title">"请选择发送日志的应用"</string>
+    <string name="failed_to_get_log_message">"获取系统日志失败."</string>
+    <string name="main_dialog_text">"此应用程序将试图收集设备的日志。 并使用您选择的应用程序发送收集的日志。 您可以在数据被发送前，审核和修改被发送的数据。"
+    </string>
+    <string name="device_info_fmt">
+日志收集器版本: <xliff:g id="application_version">%s</xliff:g>\n
+设备型号: <xliff:g id="device_model">%s</xliff:g>\n
+固件版本: <xliff:g id="firmware_revision">%s</xliff:g>\n
+内核版本: <xliff:g id="kernel_version">%s</xliff:g>\n
+版本号: <xliff:g id="build_number">%s</xliff:g>\n
+    </string>    
+</resources>
